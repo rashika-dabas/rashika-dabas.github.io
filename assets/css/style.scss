@@ -2,11 +2,9 @@
 ---
 
 @import "jekyll-theme-architect";
-.content {
-    display: flex;
-    align-items: center;
-}
 
-img {
-    margin-left: auto;
+.image-right {
+    position: absolute;
+    right: 0;
+    top: 0;
 }
