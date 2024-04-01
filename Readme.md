@@ -3,7 +3,7 @@ Passionate and results-driven Data Scientist focused on applying sound engineeri
 
 ## CONTACT ME
 Linkedin: [https://www.linkedin.com/in/rashika-dabas/](https://www.linkedin.com/in/rashika-dabas/) <br />
-Email: [rashikadabas19@gmail.com](rashikadabas19@gmail.com) <br />
+Email: rashikadabas19@gmail.com <br />
 Book a Meeting: [https://calendly.com/rashikadabas19/30min](https://calendly.com/rashikadabas19/30min)
 
 ## ABOUT ME
