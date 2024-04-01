@@ -3,7 +3,8 @@
 
 @import "jekyll-theme-architect";
 
-.image-button-container {
-    display: flex;
-    align-items: center; /* This will vertically center align the items if they have different heights */
+.image-right {
+    position: absolute;
+    left: 0;
+    top: 0;
 }
