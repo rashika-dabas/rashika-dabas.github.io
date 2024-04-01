@@ -1,6 +1,10 @@
 # Professional Summary
 Passionate and results-driven Data Scientist focused on applying sound engineering principles using both traditional and innovative methods with 1+ years of experience applying Data Science algorithms to deliver valuable outcomes for clients. Eager to apply my learnings to collaborate, experiment and leverage tools for analysis and development!
 
+## CONTACT ME
+Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/rashika-dabas/) <br />
+Email: rashikadabas19@gmail.com
+
 ## ABOUT ME
 Hello! I am Haruka Takagi, welcome to my data science portfolio. I am currently in my final year at the University of Toronto, St. George. In the progress of attaining an Honours Bachelor of Science Degree with a Double Major in Statistics & Economics, and a Minor in Mathematics in May 2023. I have been a Dean's List Scholar at UofT for 2020 & 2021. And was granted the University of Toronto Excellence Award for Research in 2022.
 
@@ -9,10 +13,7 @@ In industry, I have 1 year of experience working as a Machine Learning/Natural L
 In academia, I have 3 years of experience working as a Financial Data Analytics/ML/NLP Research assistant on 3 different university research projects with the University of Toronto Munk School of Public Policy, Department of Management and Department of Finance. Currently, I am working on a research project with Professor Charles Martineau, Professor Pat Akey, and Professor Vincent Gregoire as the only undergraduate Co-Author on a Finance working paper examining central bank communication by extracting agreement levels from FOMC transcripts using NLP methods.
 
 I am open to new oppurtunites in Data Scientist roles in Toronto, Ontario, Canada! Please feel free to reach out to me via email if you think I would be a great addition to your team! I'd be happy to hop on a video or phone call to talk about my experiences and projects on this portfolio. I am also open to freelance data science work! Please also send me a message and request, and we can set up a meeting on the prospective projects. 
-
-Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1Ve9JRBnNrEseEInWGEWCGpgroWhfuhEn/view?usp=sharing) <br />
-Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
-Email: haruka.takagi.datascience@gmail.com     
+   
 <br />
 
 ## TABLE OF CONTENTS
