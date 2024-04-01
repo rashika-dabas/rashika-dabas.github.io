@@ -2,14 +2,11 @@
 ---
 
 @import "jekyll-theme-architect";
-/* Change font and color for headings */
-h1 {
-    color: orange;
+.content {
+    display: flex;
+    align-items: center;
 }
 
-/* Change font and color for paragraphs with class 'custom-text' */
-p.custom-text {
-    font-family: Georgia, serif;
-    font-size: 18px;
-    color: #333; /* Dark gray color */
+img {
+    margin-left: auto;
 }
