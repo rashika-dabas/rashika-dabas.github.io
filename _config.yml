@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Rashika Dabas in Dataland
-logo: images/pet.png
+logo: pet.png
 description: Welcome to my dataland! Laddoo welcomes you to this page! Grab a cup of tea and please browse around the projects that are of interest to you!  
 show_downloads: false
 google_analytics: true
