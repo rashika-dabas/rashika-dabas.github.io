@@ -19,7 +19,7 @@ Honestly, most of my achievements are there in the resume but my passion towards
 <br />
 
 # Work Samples
-
+<!--
 |        | Topic        | Project           |
 | ------------- |-------------|-------------|
 |1| Data/Statistical Analysis I     | [Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/) |
@@ -99,7 +99,7 @@ In this project we will be investigating Toronto bicycle theft crimes with stati
 4. Finance: Corporate Finance Project
 5. Dialogue Act Classification Project: Improved model for of Agreement/Disagreement LSTM model on FOMC Meeting Transcripts
 6. Interactive/Dynamic Data Visualization
-
+-->
 # Experience
 
 
