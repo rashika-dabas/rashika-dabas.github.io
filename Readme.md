@@ -1,5 +1,5 @@
 # Professional Summary
-Passionate and results-driven Data Scientist focused on applying sound engineering principles using both traditional and innovative methods with 1+ years of experience applying Data Science algorithms to deliver valuable outcomes for clients. Eager to apply my learnings to collaborate, experiment and leverage tools for analysis and development!
+Passionate and results-driven Data Scientist focused on applying sound engineering principles using both traditional and innovative methods with 3 years of experience applying Data Science algorithms to deliver valuable outcomes for clients. Eager to apply my learnings to collaborate, experiment and leverage tools for analysis and development!
 
 ## CONTACT ME
 Linkedin: [https://www.linkedin.com/in/rashika-dabas/](https://www.linkedin.com/in/rashika-dabas/) <br />
@@ -37,10 +37,13 @@ Honestly, most of my achievements are there in the resume but my passion towards
 ## PROJECT OVERVIEWS
 Below is a description and brief overview for each data science project!
 
-[1. Data/Statistical Analysis I: Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/)<br />
-This project explores data from the Toronto Real Estate Board (TREB) on detached houses in Toronto and Mississauga. We will use this dataset to establish a multiple linear regression model (MLR) which home buyers can use to predict the sale price of single-family, detached homes. The report settles on the Backwards AIC model for feature selection, and finds location to be the largest swayer of sale price, with the number of bedrooms at second most importance. We also found that taxes does not influence sale price as much as expected. <br />
-<br />
-**Subject Areas**: Data Manipulation, Exploratory Data Analysis, Feature Selection, Statistical Diagnostics <br />
+Student Placement App | Minerskape - May’22
+Objective • Predict if a student is placed or not based on CGPA, IQ and Profile Score fetched from him/her
+Approach
+• Interpreted placement data of 300 students to form a model as PKL file considering Random Forest Classifier
+• Built a Flask app and used it to test URL requests with the help of Postman software
+• Integrated the app results to execute a mobile-friendly app via JavaScript and XML in Android Studio
+Result • Deployed the Flask app on Heroku and generated student placement results focusing on CGPA on the mobile app
 <br />
 <br />
 [2. Data/Statistical Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)<br />
