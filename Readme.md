@@ -33,7 +33,7 @@ Honestly, most of my achievements are there in the resume but my passion towards
 |9| Static Data Visualization      | [Visualizing Bicycle Theft in Toronto](https://haruka-takagi-datascience.github.io/static_data_visualization/) |
 
 <br />
-
+-->
 ## PROJECT OVERVIEWS
 Below is a description and brief overview for each data science project!
 
@@ -46,6 +46,7 @@ Approach
 Result • Deployed the Flask app on Heroku and generated student placement results focusing on CGPA on the mobile app
 <br />
 <br />
+<!--
 [2. Data/Statistical Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)<br />
 This project is an investigation into the European Union Power Section and its Clean Energy Status. The data used for this report is from EuroStat, and it investigated the 2019 statistics annual electricity data from 2016 to 2018 on the volumes of electricity that have been produced and supplied at the level of the European Union. The overarching finding was that clean renewable energy production integration is going very well and has progressed in the European Union. With specific findings such as, with 95% probability, the true proportion of EU countries that have met their target in 2018 is between 0.21 and 0.44 based on prior information. <br />
 <br />
