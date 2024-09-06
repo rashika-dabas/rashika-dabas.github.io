@@ -17,7 +17,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 
 Honestly, most of my achievements are there in the resume but my passion towards my work can not be described in words. I have found something which is not letting me sleep over nights! I do take responsibility of my actions every single time and stand on behalf of my team when needed. Please feel free to reach out to me if you think I can be a good fit for your team or can help in any of your prospective projects.
 
-## Work Samples
+# Work Samples
 Table for topic-wise projects
 
 ## PROJECT OVERVIEWS
