@@ -14,7 +14,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 
 Honestly, most of my achievements are there in the resume but my passion towards my work can not be described in words. I have found something which is not letting me sleep over nights! I do take responsibility of my actions every single time and stand on behalf of my team when needed. Please feel free to reach out to me if you think I can be a good fit for your team or can help in any of your prospective projects.
 
-## Professional Experience
+## WORK HISTORY
 
 | Position                                    | Company                                     | Duration      | Responsibilities                                                                                                                                                                                                                                                                         |
 | ------------------------------------------- | -------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,6 +23,16 @@ Honestly, most of my achievements are there in the resume but my passion towards
 | Corporate Venture Capital & Business Analytics | HP Tech Ventures                             | May 2024 - July 2024 | Evaluate market position, growth potential, and strategic fit for potential investments. Conducted in-depth analysis on start-up metrics, industry data, team structures, and business models. Developed product differentiation strategies & competitor analysis. Driven decision-making for executive leadership. |
 | Data Scientist                               | Unifier AI                                   | Mar 2024 - Present | Prepare high-quality textual data for training question-answering LLM on data topics & execute the training pipeline. Performed rigorous data cleaning & preprocessing. Developed custom Python scripts to automate text extraction. Compiled a dataset increasing training corpus by 95%.              |
 | Data Science Engineer                         | Zykrr Technologies Pvt. Ltd.                 | Dec 2022 - Aug 2023 | Build advanced NLP models for text analytics, sentiment detection, customer feedback insights & predictive metrics. Leveraged libraries Transformers, Spacy & NLTK. Utilized TF-IDF, BERT & SVM for Hinglish text classification. Developed Streamlit apps for text processing workflows.            |
+
+## ACADEMICS
+A[Start] --> B{Have you decided on the education section's placement?}
+B --> |Yes| C[Create a new section titled "Education"]
+B --> |No| B
+C --> D[List each degree or relevant qualification]
+D --> E[Include the institution, graduation year, and any relevant details (e.g., GPA, honors)]
+E --> F[Repeat for each degree or qualification]
+F --> G[Proofread and save the Readme file]
+G --> H[End]
 
 # Work Samples
 Table for topic-wise projects
@@ -33,6 +43,6 @@ Overview covers 1 paragraph description and subject areas
 ## COMING SOON!
 Projects not documented
 
-# CONTACT ME
+# Contact Me
 Linkedin: [https://www.linkedin.com/in/rashika-dabas/](https://www.linkedin.com/in/rashika-dabas/) <br />
 Email: rashikadabas2000@gmail.com <br />
