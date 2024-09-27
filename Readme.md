@@ -30,6 +30,7 @@ graph TD;
     A[Start] --> B[Step 1];
     B --> C[Step 2];
     C --> D[End];
+```
 
 # Work Samples
 Table for topic-wise projects
