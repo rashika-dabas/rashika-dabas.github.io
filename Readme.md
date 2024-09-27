@@ -25,15 +25,10 @@ Honestly, most of my achievements are there in the resume but my passion towards
 | Data Science Engineer                         | Zykrr Technologies Pvt. Ltd.                 | Dec 2022 - Aug 2023 | Build advanced NLP models for text analytics, sentiment detection, customer feedback insights & predictive metrics. Leveraged libraries Transformers, Spacy & NLTK. Utilized TF-IDF, BERT & SVM for Hinglish text classification. Developed Streamlit apps for text processing workflows.            |
 
 ## ACADEMICS
-flowchart TD;
-A[Start] --> B{Have you decided on the education section's placement?}
-B --> |Yes| C[Create a new section titled "Education"]
-B --> |No| B
-C --> D[List each degree or relevant qualification]
-D --> E[Include the institution, graduation year, and any relevant details (e.g., GPA, honors)]
-E --> F[Repeat for each degree or qualification]
-F --> G[Proofread and save the Readme file]
-G --> H[End]
+graph TD;
+    A[Start] --> B[Step 1];
+    B --> C[Step 2];
+    C --> D[End];
 
 # Work Samples
 Table for topic-wise projects
