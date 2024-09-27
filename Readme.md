@@ -25,12 +25,7 @@ Honestly, most of my achievements are there in the resume but my passion towards
 | Data Science Engineer                         | Zykrr Technologies Pvt. Ltd.                 | Dec 2022 - Aug 2023 | Build advanced NLP models for text analytics, sentiment detection, customer feedback insights & predictive metrics. Leveraged libraries Transformers, Spacy & NLTK. Utilized TF-IDF, BERT & SVM for Hinglish text classification. Developed Streamlit apps for text processing workflows.            |
 
 ## ACADEMICS
-```mermaid
-graph TD;
-    A[Start] --> B[Step 1];
-    B --> C[Step 2];
-    C --> D[End];
-```
+[draw.io](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Education.drawio#R1ZfbcpswEIafhpnmwh4O5uBLg%2B2mnSRN6naa5E4VMqgRiAiR2Hn6rkAYY9Kmad3OdHxh8UtapF%2FfLmA4UbZ5K1CRnvOYMMM2443hzA3btkzXhD%2BlbBvFdf1GSASNG8nshBV9Iu1MrVY0JqXWGklyziQt%2BiLmeU6w7GlICP7YH7bmLO4JBUrIQFhhxIbqFxrLtFED2%2B%2F0U0KTtL2z5U2bnq8I3yWCV7m%2BX85z0vRkqA2jg5cpivnjnhnOwnAiwblsWtkmIkzZ2jp27V7cLzbRlXy43bzbXPlFltyMGsOWP5iy24cgufztKBffZvefpzeuOA3vtjefLqsvIzTSoR8Qq7Rpi7jCSFKeIzU57Jxotiu3rbvlI80YAmOccM1zudI94ECIU8riM7TllVpuKSFIexWmXNAnGA%2FhnbkFAnQLqeEBCyEaZSzijAsQauf3J61UMD1TkBKmXba2HErnSJFs7tQzVEotYM4YKkr6tV6yUjIkEpqHXEqeaand4HK4nlIKfkcOROXCEmWUqXQ5JeyBSIpRa0%2BzQWuir9u5hu2EM%2FUDveA0lzXzbmi4c1AeiFAx2IzRJIeOjMYxaxYANoRcxEQFscxWWhUI0zwBbWTtdo6abSp%2FhiS1BMCdyGZP0hC9JTwjUmxhiO61LZ0l2zZtdIjHLsd8R49Je%2Fml6wLSeZ3sYnfYQkOT%2BwqK7QHF4XiFxyC9OeV5OT6B1jlkLoH0pbg0bA9sr%2F15syJQfeK6%2F5s6kBk0gTFJSzXyZG9oMJ6qnS%2FVLnbiMCtSVJAaelKoIyWCwh7rU1LSZXd9ABFE9KJgES7%2FgKQuwB6yoMeIBGtc6xvSFuo693TTP0hia7e8tnCqtC4buD7xQmfIENghXz8tO78MXYuOZs4xB8jZljtEzj8Cce9dk5rVdUY%2FTJJRGYni9iN%2Fpm5GKlXXcEwSHhVmxCtRqgbN92hZgi04BfUM5Umlnl5d31wRl2NVeY8K1dTzHeS9Cqo%2BPMSKXeL%2FC3gOaJ55gRkGO6gGsPwqZz%2BpZO5LVFnTZwrZMah6drnOgKpzXcfmSCJVmTAFgogR2cYMFmH2ypN6r%2FmL1SmwQ8d7HUj98%2BwCHFQnlwTx5H%2BuThNz8iJIvvUPQXIHIM2KglGiHnSz8bvxPiM1S87YB%2FiWk6MSEwbuxDX%2F5M1oF6BPzDrABP%2FXzzPXe7n0eJOjEAOX3edI3bf3uecsvgM%3D)
 
 # Work Samples
 Table for topic-wise projects
