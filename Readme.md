@@ -25,7 +25,7 @@ Honestly, most of my achievements are there in the resume but my passion towards
 | Data Science Engineer                         | Zykrr Technologies Pvt. Ltd.                 | Dec 2022 - Aug 2023 | Build advanced NLP models for text analytics, sentiment detection, customer feedback insights & predictive metrics. Leveraged libraries Transformers, Spacy & NLTK. Utilized TF-IDF, BERT & SVM for Hinglish text classification. Developed Streamlit apps for text processing workflows.            |
 
 ## ACADEMICS
-![Education](/rashika-dabas.github.io/assets/images/education.drawio.png)
+[[assets/images/education.drawio.png]]
 
 # Work Samples
 Table for topic-wise projects
