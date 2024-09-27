@@ -12,7 +12,7 @@ Having a Master's in Data Science and a Bachelor's with double majors in Mathema
 
 I am progressive-minded and in tune with new developments in AI. I have proven to be effective and collaborative with strong problem-solving abilities. In my studies as well as professional experience, I enjoyed collective brainstorming sessions which led me to coordinate activities to achieve a common vision. I am well versed in cloud technologies to deal with structured and unstructured data sources for analysis and processing. Not exaggerating but documentation with visuals is my favourite work to do wherever I go and I’m open to exploring data-driven challenges using advanced analytical tools.
 
-Honestly, most of my achievements are there in the resume but my passion towards my work can not be described in words. I have found something which is not letting me sleep over nights! I do take responsibility of my actions every single time and stand on behalf of my team when needed. Please feel free to reach out to me if you think I can be a good fit for your team or can help in any of your prospective projects.
+Honestly, most of my achievements are there in the resume but my passion towards my work can not be described in words. I have found something which is not letting me sleep overnight! I do take responsibility of my actions every single time and stand on behalf of my team when needed. Please feel free to reach out to me if you think I can be a good fit for your team or can help in any of your prospective projects.
 
 ## WORK HISTORY
 
