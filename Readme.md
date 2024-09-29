@@ -4,15 +4,9 @@ Data Scientist with a passion for turning data into insights. Skilled in Python,
 # My Journey
 
 ## ABOUT ME
-I am a highly motivated and progress-focused Data Scientist with an impressive background in this industry. With a track record of initiative and dependability, I have devised strategic initiatives that I believe will prove valuable to my workplace.
+I am a highly motivated and progress-focused Data Scientist with an impressive background in this industry. With a track record of initiative and dependability, I have devised strategic initiatives that I believe will prove valuable to my workplace. Having a Master's Degree in Data Science and a Bachelor's Degree with double majors in Mathematics & Statistics, I am well-equipped with theoretical concepts involved for detailed analysis. In my previous roles, I have contributed to decision-making, innovation and statistical model development along with team efforts and business improvements.
 
-Graduated from the Applied A.I. Program at George Brown College, I welcome the opportunity with eagerness to contribute the technical skills learnt in the program to your dynamic team. Throughout my career, I have perfected my programming language proficiency and model evaluation abilities. I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency.
-
-Having a Master's in Data Science and a Bachelor's with double majors in Mathematics & Statistics, I am well-equipped with theoretical concepts involved for detailed analysis. In my previous role, I contributed to decision-making, innovation, and statistical model development along with team efforts and business improvements.
-
-I am progressive-minded and in tune with new developments in AI. I have proven to be effective and collaborative with strong problem-solving abilities. In my studies as well as professional experience, I enjoyed collective brainstorming sessions which led me to coordinate activities to achieve a common vision. I am well versed in cloud technologies to deal with structured and unstructured data sources for analysis and processing. Not exaggerating but documentation with visuals is my favourite work to do wherever I go and I’m open to exploring data-driven challenges using advanced analytical tools.
-
-Honestly, most of my achievements are there in the resume but my passion towards my work can not be described in words. I have found something which is not letting me sleep overnight! I do take responsibility of my actions every single time and stand on behalf of my team when needed. Please feel free to reach out to me if you think I can be a good fit for your team or can help in any of your prospective projects.
+I am progressive-minded and in tune with new developments in AI. I have proven to be effective and collaborative with strong problem-solving abilities. In my studies as well as professional experience, I enjoyed collective brainstorming sessions which led me to coordinate activities to achieve a common vision and am well versed in technologies to deal with structured and unstructured data sources for analysis and processing. Honestly, most of my achievements are there in the resume but my passion towards my work can not be described in words. I have found something which is not letting me sleep overnight! I take responsibility for my actions every single time and stand on behalf of my team when needed. Please feel free to reach out if you think we can work together on something interesting.
 
 ## WORK HISTORY
 
