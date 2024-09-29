@@ -1,5 +1,5 @@
 # Profile Summary
-Data Scientist with a passion for turning data into insights. Skilled in Python, SQL and Cloud Computing (Azure, Fabric, GCP, AWS, Snowflake, Databricks and Salesforce). Proven collaborator with a drive for innovation. Ready to tackle challenging projects and deliver impactful results!
+Data Scientist with a passion for turning data into insights. Skilled in Python, SQL and Cloud Computing (Microsoft Azure, Microsoft Fabric, GCP, AWS, Snowflake, Databricks and Salesforce). Proven collaborator with a drive for innovation. Ready to tackle challenging projects and deliver impactful results!
 
 # My Journey
 
