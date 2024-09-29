@@ -1,5 +1,5 @@
 # Profile Summary
-Passionate and results-driven Data Scientist focused on applying sound engineering principles using both traditional and innovative methods with 3 years of experience applying Data Science algorithms to deliver valuable outcomes for clients. Eager to apply my learnings to collaborate, experiment and leverage tools for analysis and development!
+Data Scientist with a passion for turning data into insights. Skilled in Python, SQL and Cloud Computing (Azure, Fabric, GCP, AWS, Snowflake, Databricks and Salesforce). Proven collaborator with a drive for innovation. Ready to tackle challenging projects and deliver impactful results!
 
 # My Journey
 
