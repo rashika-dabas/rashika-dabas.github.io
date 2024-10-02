@@ -61,8 +61,9 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 * PUBLICATION: [Virtual Reality and its Applications](http://www.sumc.lt/index.php/se/article/view/1546) - This paper intends to focus on the use of virtual reality in education. The paper presents an innovative perspective on VR, offering a comprehensive overview of its basic facts and features. It delves into the specific applications of VR in educational settings, emphasizing its potential impact on teaching and learning.
 
 ## PROJECT OVERVIEWS
-1. Heart Failure Predictor
-2. Medium Article Scraper
+1. Heart Failure Predictor: The project focuses on predicting heart failure using machine learning techniques. I worked on using the Logistic Regression model to predict the outcome. The project demonstrates the application of data science and machine learning in the healthcare domain, specifically in cardiovascular health assessment and utilizes a dataset containing various health parameters to build a predictive model for heart failure risk. The project showcases the implementation of different machine learning algorithms and data analysis techniques to achieve accurate predictions. <br /> Subject Areas: Data Science & Machine Learning, Healthcare Analytics, Python Programming
+Data Manipulation, Data Visualization tools, Statistical Analysis and Model Interpretation
+2. Medium Article Scraper:
 3. AI Detector
 4. CinePulse
 5. VR Audio Description
