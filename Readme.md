@@ -34,22 +34,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 ![Edu](assets/images/education.drawio.png)
 
 # Work Samples
-| Project Name          | Description                                   | Technologies Used             | GitHub Repository                                          |
-|-----------------------|-----------------------------------------------|----------------------------------|-------------------------------------------------------------|
-| Heart Failure Predictor   | Predicts heart failure using machine learning.  | Python, Machine Learning, Data Analysis  | [https://github.com/rashika-dabas/Heart-Failure-Predictor](https://github.com/rashika-dabas/Heart-Failure-Predictor) |
-| Medium Article Scraper    | Scrapes articles from Medium.                 | Python, Web Scraping            | [https://github.com/rashika-dabas/Medium-Article-Scraper](https://github.com/rashika-dabas/Medium-Article-Scraper)   |
-| AI Detector             | Detects AI-generated text.                    | Python, NLP, Machine Learning   | [https://github.com/rashika-dabas/AI-Detector](https://github.com/rashika-dabas/AI-Detector)                 |
-| CinePulse               | Movie recommendation system.                  | Python, Data Analysis, ML      | [https://github.com/rashika-dabas/CinePulse](https://github.com/rashika-dabas/CinePulse)                   |
-| VR Audio Description    | Audio description for VR environments.        | Python, NLP, Accessibility    | [https://github.com/rashika-dabas/VR-Audio-Description](https://github.com/rashika-dabas/VR-Audio-Description)   |
-| AI Ethics               | Explores ethical considerations in AI.        | Python, Ethics, AI             | [https://github.com/rashika-dabas/AI-Ethics](https://github.com/rashika-dabas/AI-Ethics)                   |
-| Amazon Crawling         | Web crawler for Amazon product data.          | Python, Web Scraping            | [https://github.com/rashika-dabas/Amazon-Crawling](https://github.com/rashika-dabas/Amazon-Crawling)         |
-| Web Authenticator       | Web authentication system.                    | Python, Security, Web Dev      | [https://github.com/rashika-dabas/Web-Authenticator](https://github.com/rashika-dabas/Web-Authenticator)       |
-| Student Placement App   | Application for student placement tracking.   | Python, Web Dev, Database      | [https://github.com/rashika-dabas/Student-Placement-App](https://github.com/rashika-dabas/Student-Placement-App)   |
-| ChatbotRashi            | Chatbot development project.                  | Python, NLP, Chatbots           | [https://github.com/rashika-dabas/ChatbotRashi](https://github.com/rashika-dabas/ChatbotRashi)            |
-| Login GUI               | Graphical user interface for login.           | Python, GUI Development        | [https://github.com/rashika-dabas/LoginGUI](https://github.com/rashika-dabas/LoginGUI)               |
-| News Reader             | News aggregation and reading application.       | Python, Web Scraping, Data Analysis| [https://github.com/rashika-dabas/NewsReader](https://github.com/rashika-dabas/NewsReader)             |
-| Movie Recommendation System| Recommends movies based on user preferences.  | Python, ML, Recommendation Systems | [https://github.com/rashika-dabas/Movie-Recommendation-System](https://github.com/rashika-dabas/Movie-Recommendation-System) |
-| WhatsApper              | Automates sending WhatsApp messages.          | Python, Automation             | [https://github.com/rashika-dabas/WhatsApper](https://github.com/rashika-dabas/WhatsApper)              |
+
 
 ## PROJECT OVERVIEWS
 Overview covers 1 paragraph description and subject areas
