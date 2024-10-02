@@ -1,5 +1,5 @@
 # Profile Summary
-Data Scientist with a passion for turning data into insights skilled in Python, SQL and Cloud Computing (Microsoft Azure, Microsoft Fabric, GCP, AWS, Snowflake, Databricks & Salesforce). Proven collaborator with a drive for innovation. Ready to tackle challenging projects and deliver impactful results!
+Data Scientist with a passion for turning data into insights skilled in Python, SQL and Cloud Computing (Microsoft Azure, Microsoft Fabric, GCP, AWS, Snowflake, Databricks & Salesforce). Proven collaborator with a drive for innovation. Always ready to tackle challenging projects and deliver impactful results!
 
 # My Journey
 
@@ -55,7 +55,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 | Movie Recommendation System| Recommends movies based on user preferences.  | Python, ML, Recommendation Systems | [https://github.com/rashika-dabas/Movie-Recommendation-System](https://github.com/rashika-dabas/Movie-Recommendation-System) |
 | WhatsApper              | Automates sending WhatsApp messages.          | Python, Automation             | [https://github.com/rashika-dabas/WhatsApper](https://github.com/rashika-dabas/WhatsApper)              | 
 
-
+<br />
 PUBLICATION: [Virtual Reality and its Applications](http://www.sumc.lt/index.php/se/article/view/1546) - This paper intends to focus on the use of virtual reality in education. The paper presents an innovative perspective on VR, offering a comprehensive overview of its basic facts and features. It delves into the specific applications of VR in educational settings, emphasizing its potential impact on teaching and learning.
 
 ## PROJECT OVERVIEWS
@@ -66,4 +66,4 @@ Projects not documented
 
 # Contact Me
 Linkedin: [https://www.linkedin.com/in/rashika-dabas/](https://www.linkedin.com/in/rashika-dabas/) <br />
-Email: rashikadabas2000@gmail.com <br />
+Email: rashikadabas2000@gmail.com
