@@ -40,7 +40,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 
 | Project Name          | Description                                   | Skills Used                   | GitHub Repository                                          |
 |-----------------------|-----------------------------------------------|-------------------------------|------------------------------------------------------------|
-| Heart Failure Predictor   | Predicts heart failure using machine learning.  | Python, Machine Learning, Data Analysis  | [https://github.com/rashika-dabas/Heart-Failure-Predictor](https://github.com/rashika-dabas/Heart-Failure-Predictor) |
+| Heart Failure Predictor   | Predicts the occurrence of a heart failure using Machine Learning models.  | Python, Machine Learning, Data Analysis & Cleaning, Data Modelling, Healthcare  | [https://github.com/rashika-dabas/Heart-Failure-Predictor](https://github.com/rashika-dabas/Heart-Failure-Predictor) |
 | Medium Article Scraper    | Scrapes articles from Medium.                 | Python, Web Scraping            | [https://github.com/rashika-dabas/Medium-Article-Scraper](https://github.com/rashika-dabas/Medium-Article-Scraper)   |
 | AI Detector             | Detects AI-generated text.                    | Python, NLP, Machine Learning   | [https://github.com/rashika-dabas/AI-Detector](https://github.com/rashika-dabas/AI-Detector)                 |
 | CinePulse               | Movie recommendation system.                  | Python, Data Analysis, ML      | [https://github.com/rashika-dabas/CinePulse](https://github.com/rashika-dabas/CinePulse)                   |
