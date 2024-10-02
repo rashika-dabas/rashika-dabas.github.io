@@ -57,15 +57,14 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 | Clicked Data Analysis Sprint              | Analyzes NBA data through SQL queries to identify game trends and player/team performance metrics.          | Python, SQL, AI, Visualizations, Business Processes             | [https://github.com/rashika-dabas/Clicked-Data-Analysis-Sprint](https://github.com/rashika-dabas/Clicked-Data-Analysis-Sprint)              |
 | Employment Analytics              | Delves into driving awareness and providing detailed stakeholder reports for educational pathways.          | Python, Excel, Power BI, AI, Dashboarding, Storytelling             | [https://github.com/rashika-dabas/Employment-Analytics](https://github.com/rashika-dabas/Employment-Analytics)              |
 
-[Tableau Dashboarding](https://public.tableau.com/app/profile/rashika.dabas/vizzes)
-
-PUBLICATION: [Virtual Reality and its Applications](http://www.sumc.lt/index.php/se/article/view/1546) - This paper intends to focus on the use of virtual reality in education. The paper presents an innovative perspective on VR, offering a comprehensive overview of its basic facts and features. It delves into the specific applications of VR in educational settings, emphasizing its potential impact on teaching and learning.
+* [Tableau Dashboarding](https://public.tableau.com/app/profile/rashika.dabas/vizzes)
+* PUBLICATION: [Virtual Reality and its Applications](http://www.sumc.lt/index.php/se/article/view/1546) - This paper intends to focus on the use of virtual reality in education. The paper presents an innovative perspective on VR, offering a comprehensive overview of its basic facts and features. It delves into the specific applications of VR in educational settings, emphasizing its potential impact on teaching and learning.
 
 ## PROJECT OVERVIEWS
 Overview covers 1 paragraph description and subject areas
 
 ## COMING SOON!
-Projects not documented
+* Hi
 
 # Contact Me
 Linkedin: [https://www.linkedin.com/in/rashika-dabas/](https://www.linkedin.com/in/rashika-dabas/) <br />
