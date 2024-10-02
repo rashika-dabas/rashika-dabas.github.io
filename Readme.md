@@ -38,7 +38,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 
 # Work Samples
 
-| Project Name          | Description                                   | Technologies Used             | GitHub Repository                                          |
+| Project Name          | Description                                   | Skills Used                   | GitHub Repository                                          |
 |-----------------------|-----------------------------------------------|-------------------------------|------------------------------------------------------------|
 | Heart Failure Predictor   | Predicts heart failure using machine learning.  | Python, Machine Learning, Data Analysis  | [https://github.com/rashika-dabas/Heart-Failure-Predictor](https://github.com/rashika-dabas/Heart-Failure-Predictor) |
 | Medium Article Scraper    | Scrapes articles from Medium.                 | Python, Web Scraping            | [https://github.com/rashika-dabas/Medium-Article-Scraper](https://github.com/rashika-dabas/Medium-Article-Scraper)   |
@@ -53,7 +53,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 | Login GUI               | Graphical user interface for login.           | Python, GUI Development        | [https://github.com/rashika-dabas/LoginGUI](https://github.com/rashika-dabas/LoginGUI)               |
 | News Reader             | News aggregation and reading application.       | Python, Web Scraping, Data Analysis| [https://github.com/rashika-dabas/NewsReader](https://github.com/rashika-dabas/NewsReader)             |
 | Movie Recommendation System| Recommends movies based on user preferences.  | Python, ML, Recommendation Systems | [https://github.com/rashika-dabas/Movie-Recommendation-System](https://github.com/rashika-dabas/Movie-Recommendation-System) |
-| WhatsApper              | Automates sending WhatsApp messages.          | Python, Automation             | [https://github.com/rashika-dabas/WhatsApper](https://github.com/rashika-dabas/WhatsApper)              | 
+| WhatsApper              | Understand WhatsApp chat via data, statistics and visualizations through a Streamlit app          | Python, Visualizations, Product Metrics, App Development, Automation             | [https://github.com/rashika-dabas/WhatsApper](https://github.com/rashika-dabas/WhatsApper)              | 
 | Clicked Data Analysis Sprint              | Analyzes NBA data through SQL queries to identify game trends and player/team performance metrics.          | Python, SQL, AI, Visualizations, Business Processes             | [https://github.com/rashika-dabas/Clicked-Data-Analysis-Sprint](https://github.com/rashika-dabas/Clicked-Data-Analysis-Sprint)              |
 | Employment Analytics              | Delves into driving awareness and providing detailed stakeholder reports for educational pathways.          | Python, Excel, Power BI, AI, Dashboarding, Storytelling             | [https://github.com/rashika-dabas/Employment-Analytics](https://github.com/rashika-dabas/Employment-Analytics)              |
 
