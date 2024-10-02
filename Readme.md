@@ -79,7 +79,44 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 16. Employment Analytics
 
 ## COMING SOON!
-* Hi
+* Similar Character Recognizer
+* Credit Card Churn Predictor
+* Pose Detector
+* Data Handler
+* WFH Analyzer
+* Retail Analyzer
+* Toronto Crime Analyzer
+* Covid-19 Data Analysis
+* Real Estate Price Predictor
+* Auto Feature Selector Tool
+* Behavioral Risk Factor Surveillance System
+* Loan Eligibility Predictor
+* Yelp Reviews Scrapper
+* Great Customers CLassifier
+* Sample Superstore Classifier
+* TherapEase
+* News Group Classifier
+* Prescription Parser
+* News Modelling
+* Movie Recommender
+* Summarizer - ML
+* Objection Segmentation
+* Cartoonify Faces
+* Financial News Sentiment Analyzer
+* Audiobook
+* Thief Detector
+* Flight Delay Analyzer
+* Text Summarizer - DL
+* EmoPulse
+* Landmark Identification
+* Art Images Generation Using GANs
+* Galactic Astral Identification
+* Automated EDA
+* Zomato Analyzer
+* Safe Roads 2024 - Toronto Road Safety Analysis
+* TMLS 2024 - Tourist Guide Chatbot
+* Scanning Techniques Using NMAP Tool
+* Stock Markets Analysis
 
 # Contact Me
 Linkedin: [https://www.linkedin.com/in/rashika-dabas/](https://www.linkedin.com/in/rashika-dabas/) <br />
