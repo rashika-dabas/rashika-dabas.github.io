@@ -65,9 +65,14 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 The project focuses on predicting heart failure using machine learning techniques. I worked on using the Logistic Regression model to predict the outcome. The project demonstrates the application of data science and machine learning in the healthcare domain, specifically in cardiovascular health assessment and utilizes a dataset containing various health parameters to build a predictive model for heart failure risk. The project showcases the implementation of different machine learning algorithms and data analysis techniques to achieve accurate predictions. <br /> <b> Subject Areas: </b> Data Science & Machine Learning, Healthcare Analytics, Python Programming, Data Manipulation, Data Visualization, Statistical Analysis and Model Interpretation
 
 ### 2. Medium Article Scraper:
+Medium Article Scraper project is a Python-based tool designed to extract and analyze content from Medium articles. The Scraper demonstrates skills in web scraping, data analysis, and natural language processing. It allows users to scrape articles from Medium.com, extract relevant information, store the extracted information in a text file and perform various analyses on the collected data. <br /> <b> Subject Areas: </b> Web Scraping, Data Processing, Natural Language Processing (NLP), Data Visualization and Python Programming
 
-3. AI Detector
-4. CinePulse
+### 3. AI Detector:
+AI Detector project aims to distinguish between human-written and AI-generated text. The project utilizes deep learning models to analyze and classify text samples, providing insights into the authenticity of written content. The project incorporates metrics to assess the accuracy and effectiveness of the AI detection models tried. The focus was to solve a real-world problem, honing skills in data handling, model implementation and performance analysis. <br /> <b> Subject Areas: </b> Natural Language Processing (NLP), Text Classification, Data Preprocessing, Model Evaluation and Comparison, Deep Learning, Python Programming, Data Visualization and Project Management
+
+### 4. CinePulse:
+
+
 5. VR Audio Description
 6. AI Ethics
 7. Amazon Crawling
