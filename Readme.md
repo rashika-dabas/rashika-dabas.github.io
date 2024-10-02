@@ -8,6 +8,8 @@ I am a highly motivated and progress-focused Data Scientist with an impressive b
 
 I am progressive-minded and in tune with new developments in AI. I have proven to be effective and collaborative with strong problem-solving abilities. In my studies as well as professional experience, I enjoyed collective brainstorming sessions which led me to coordinate activities to achieve a common vision and am well versed in technologies to deal with structured and unstructured data sources for analysis and processing. Honestly, most of my achievements are there in the resume but my passion towards my work can not be described in words. I have found something which is not letting me sleep overnight! I take responsibility for my actions every single time and stand on behalf of my team when needed. Please feel free to reach out if you think we can work together on something interesting.
 
+Featured Blog - https://blogs.sas.com/content/sascom/2024/06/17/how-to-command-a-room-with-data-when-your-audience-isnt-data-scientists/
+
 ## WORK HISTORY
 
 | Position                                                     | Company                                                | Duration            | Objective                                                                                                                   |
@@ -30,6 +32,10 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 | Social Media Marketing                                       | Dewrty Foundation                                      | May 2021 - Jul 2021 | Manage social media presence and execute marketing campaigns via posters for awareness.                                     |
 | Data Research Analysis Team Lead                             | Ace Overseas Education Consultants                     | Apr 2021 – Jul 2021 | Lead a 20-member content team boosting productivity by 20% via project coordination & ongoing support.                      |
 | Graphic Designing                                            | CollegeTips.in                                         | May 2021 - Jun 2021 | Create visual designs for promoting website and marketing materials.                                                        |
+
+PUBLICATION:
+Virtual Reality and its Applications - http://www.sumc.lt/index.php/se/article/view/1546
+Description - This paper intends to focus on the use of virtual reality in education. The paper presents an innovative perspective on VR, offering a comprehensive overview of its basic facts and features. It delves into the specific applications of VR in educational settings, emphasizing its potential impact on teaching and learning.
 
 ## ACADEMICS
 ![Edu](assets/images/education.drawio.png)
