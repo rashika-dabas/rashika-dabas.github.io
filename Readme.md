@@ -10,7 +10,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 
 ## WORK HISTORY
 | Position                                                     | Company                                                | Duration            | Objective                                                                                                                   |
-| :----------------------------------------------------------: | :----------------------------------------------------: | :-----------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+|--------------------------------------------------------------|--------------------------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Data Scientist                                               | Unifier AI                                             | Mar 2024 - Present  | Prepare high-quality textual data for training question-answering LLM on data topics & execute training pipeline.           |
 | Business Intelligence Analyst & Student Chapters Coordinator | BACG (Business Analytics Consulting Group Canada Ltd.) | Aug 2024 - Present  | Grow industry collaboration hub via decision-making and initiate industry & student chapters for subscription-based models. |
 | Data Management & Analytics                                  | PathtoCareer Inc.                                      | May 2024 - Aug 2024 | Enhance platform data and user engagement through targeted data analysis and data governance principles.                    |
