@@ -30,6 +30,19 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 | Data Research Analysis Team Lead               | Ace Overseas Education Consultants           | Apr 2021 – Jul 2021   | Lead a 20-member content team boosting productivity by 20% via project coordination & ongoing support.                     |
 | Graphic Designing                              | CollegeTips.in                               | May 2021 - Jun 2021   | Create visual designs for promoting website and marketing materials.                                                       |
 
+| Company                   | Position                      | Duration          | Location         |
+|----------------------------|-------------------------------|-------------------|------------------|
+| Unifier AI                 | Data Scientist                 | Mar 2024 - Present | Toronto, ON      |
+| BACG (Business Analytics Consulting Group Canada Ltd.) | Business Intelligence Analyst & Student Chapters Coordinator | Aug 2024 - Present | Toronto, ON      |
+| PathtoCareer Inc.           | Data Management & Analytics   | May 2024 - Aug 2024| Toronto, ON      |
+| HP Tech Ventures (Extern)  | Corporate Venture Capital & Business Analytics | May 2024 - July 2024 | Remote          |
+| Williams-Sonoma Canada, Inc.| Cashier                       | Nov 2023 - Dec 2023|                  | 
+| Zykrr Technologies Pvt. Ltd.| Data Science Engineer         | Dec 2022 - Aug 2023| Gurugram, India  |
+| Instrovate Technologies    | Data Analytics                 | Mar 2022 - Jun 2022| Gurugram, India  |
+| The Sparks Foundation       | Data Science & Business Analytics | Apr 2022 - May 2022| Remote          |
+| LetsGrowMore               | Data Scientist                 | Sep 2021 - Oct 2021| Remote          |
+| Ace Overseas Education Consultants | Data Research Analysis Team Lead | Apr 2021 - Jul 2021 | Remote          |
+
 ## ACADEMICS
 ![Edu](assets/images/education.drawio.png)
 
