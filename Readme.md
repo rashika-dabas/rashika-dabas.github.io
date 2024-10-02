@@ -61,7 +61,22 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 * PUBLICATION: [Virtual Reality and its Applications](http://www.sumc.lt/index.php/se/article/view/1546) - This paper intends to focus on the use of virtual reality in education. The paper presents an innovative perspective on VR, offering a comprehensive overview of its basic facts and features. It delves into the specific applications of VR in educational settings, emphasizing its potential impact on teaching and learning.
 
 ## PROJECT OVERVIEWS
-Overview covers 1 paragraph description and subject areas
+1. Heart Failure Predictor
+2. Medium Article Scraper
+3. AI Detector
+4. CinePulse
+5. VR Audio Description
+6. AI Ethics
+7. Amazon Crawling
+8. Web Authenticator
+9. Student Placement App
+10. ChatbotRashi
+11. Login GUI
+12. News Reader
+13. Movie Recommendation System
+14. WhatsApper
+15. Clicked Data Analysis Sprint
+16. Employment Analytics
 
 ## COMING SOON!
 * Hi
