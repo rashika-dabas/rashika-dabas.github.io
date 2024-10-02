@@ -54,6 +54,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 | News Reader             | News aggregation and reading application.       | Python, Web Scraping, Data Analysis| [https://github.com/rashika-dabas/NewsReader](https://github.com/rashika-dabas/NewsReader)             |
 | Movie Recommendation System| Recommends movies based on user preferences.  | Python, ML, Recommendation Systems | [https://github.com/rashika-dabas/Movie-Recommendation-System](https://github.com/rashika-dabas/Movie-Recommendation-System) |
 | WhatsApper              | Automates sending WhatsApp messages.          | Python, Automation             | [https://github.com/rashika-dabas/WhatsApper](https://github.com/rashika-dabas/WhatsApper)              | 
+| Clicked Data Analysis Sprint              | Analyzes NBA data through SQL queries to identify game trends and player/team performance metrics.          | Python, SQL, AI, Visualizations, Business Processes             | [https://github.com/rashika-dabas/Clicked-Data-Analysis-Sprint](https://github.com/rashika-dabas/Clicked-Data-Analysis-Sprint)              | 
 
 <br />
 PUBLICATION: [Virtual Reality and its Applications](http://www.sumc.lt/index.php/se/article/view/1546) - This paper intends to focus on the use of virtual reality in education. The paper presents an innovative perspective on VR, offering a comprehensive overview of its basic facts and features. It delves into the specific applications of VR in educational settings, emphasizing its potential impact on teaching and learning.
