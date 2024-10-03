@@ -83,9 +83,11 @@ Virtual Reality (VR) Audio Description project aims to enhance the accessibility
 This is a web scraping project focused on extracting product information from Amazon. The Amazon Crawling project utilizes the Scrapy user agent to navigate through Amazon's website and extract detailed product information. It employs various Python libraries such as Scrapy for web extraction and Pandas for data manipulation. It includes the script for scraping product details, handles pagination and stores the collected data in the NoSQL MongoDB database. One of the key features of this project is its ability to gather a wide range of product attributes from multiple pages. The collected data can further be processed and analyzed to generate meaningful insights about product trends, pricing strategies, and customer preferences on Amazon's platform. <br /> <b> Subject Areas: </b> Web Scraping, Data Analysis, Python Programming, E-commerce Analytics, Automation, Databases, NoSQL, Version Control
 
 ### 8. Web Authenticator:
+The project demonstrates a robust approach to user authentication, incorporating essential features such as user login functionality and password tracking mechanism. The system employs secure coding practices to protect user data and prevent common security vulnerabilities. The implementation includes server-side validation of user inputs, password hashing for enhanced security and caching session information. The login functionality implemented can be easily integrated for secure user authentication in web applications and is deployed on the Salesforce cloud for easy application access. <br /> <b> Subject Areas: </b> Web Development, User Authentication and Authorization, Security Best Practices, Password Hashing and Encryption, User Interface Design, Deployment (Salesforce)
+
+### 9. Student Placement App:
 
 
-9. Student Placement App
 10. ChatbotRashi
 11. Login GUI
 12. News Reader
