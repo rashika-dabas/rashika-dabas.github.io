@@ -86,9 +86,11 @@ This is a web scraping project focused on extracting product information from Am
 The project demonstrates a robust approach to user authentication, incorporating essential features such as user login functionality and password tracking mechanism. The system employs secure coding practices to protect user data and prevent common security vulnerabilities. The implementation includes server-side validation of user inputs, password hashing for enhanced security and caching session information. The login functionality implemented can be easily integrated for secure user authentication in web applications and is deployed on the Salesforce cloud for easy application access. <br /> <b> Subject Areas: </b> Web Development, User Authentication and Authorization, Security Best Practices, Password Hashing and Encryption, User Interface Design, Deployment (Salesforce)
 
 ### 9. Student Placement App:
+The Student Placement App is an interactive web application designed to streamline the placement process for educational institutions and help students know their chances of landing a placement offer based on CGPA, IQ and profile score. This project leverages a robust tech stack, including Python for the predictions (Random Forest Classifier Model), Postman software for testing the URL requests from the local Flask app and JavaScript & XML for the mobile application designed via Android Studio. The app is also deployed on Heroku by Salesforce Cloud for easy access to developers. It offers a user-friendly interface that caters to three main user roles: students, companies and placement coordinators. <br /> <b> Subject Areas: </b> Web Development, Machine Learning, App Development, API Testing, Programming, User Interface Design, Deployment (Salesforce)
+
+### 10. ChatbotRashi:
 
 
-10. ChatbotRashi
 11. Login GUI
 12. News Reader
 13. Movie Recommendation System
