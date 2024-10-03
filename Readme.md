@@ -71,15 +71,17 @@ Medium Article Scraper project is a Python-based tool designed to extract and an
 AI Detector project aims to distinguish between human-written and AI-generated text. The project utilizes deep learning models to analyze and classify text samples, providing insights into the authenticity of written content. The project incorporates metrics to assess the accuracy and effectiveness of the AI detection models tried. The focus was to solve a real-world problem, honing skills in data handling, model implementation and performance analysis. <br /> <b> Subject Areas: </b> Natural Language Processing (NLP), Text Classification, Data Preprocessing, Model Evaluation and Comparison, Deep Learning, Python Programming, Data Visualization and Project Management
 
 ### 4. CinePulse:
-CinePulse is a comprehensive unique movie recommendation system that leverages machine learning algorithms, specifically facial recognition and emotion detection, to provide personalized film suggestions based on user preferences and viewing history. The project aims to enhance the movie-watching experience by offering tailored recommendations and streamlining the process of discovering new films. <br /> <b> Subject Areas: </b> Deep Learning, Market Research, User Experience (UX) Design, Docker, Data Visualization, Deployment (GCP) and Model Benchmarking
+CinePulse is a unique movie ranker system that leverages machine learning algorithms, specifically facial recognition and emotion detection, to rank movies/film suggestions based on user's emotional reactions. The project aims to enhance the movie-reviewing experience by offering genuine non-verbal unwritten feedback and streamlining the process of reviewing new films. <br /> <b> Subject Areas: </b> Deep Learning, Market Research, User Experience (UX) Design, Docker, Data Visualization, Deployment (GCP) and Model Benchmarking
 
 ### 5. VR Audio Description:
 Virtual Reality (VR) Audio Description project aims to enhance the accessibility of VR experiences for visually impaired users. The project utilizes advanced technologies to provide real-time audio descriptions of virtual environments, allowing visually impaired individuals to navigate and interact with VR content more effectively. The project employs creating a custom synthetic dataset and finetuning the GPT model to analyze visual elements within the VR environment and generate appropriate audio descriptions. <br /> <b> Subject Areas: </b> Virtual Reality (VR) Development, Accessibility Technology, Machine Learning, Dataset Generation, Audio Processing. Real-time Systems, 3D Environment Mapping and Human-Computer Interaction
 
 ### 6. AI Ethics:
+"AI Ethics" is a comprehensive collection of resources and work focused on the ethical considerations surrounding artificial intelligence and showcases a range of topics that explore the intersection of AI and ethics enhancing the understanding to address the complex challenges in this field. It also highlights the importance of considering the societal impact of AI technologies and the need for responsible innovation along with contributing to the ongoing dialogue about the responsible development and deployment of AI systems in various domains. <br /> <b> Subject Areas: </b> Ethical AI principles and frameworks, Bias and fairness in AI systems, Privacy and data protection, Transparency and explainability in AI, AI governance and regulation, Responsible AI development
+
+### 7. Amazon Crawling:
 
 
-7. Amazon Crawling
 8. Web Authenticator
 9. Student Placement App
 10. ChatbotRashi
