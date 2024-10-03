@@ -95,12 +95,19 @@ The Student Placement App is an interactive web application designed to streamli
 LoginGUI App demonstrates the implementation of an interactive graphical user interface for user authentication using Python and Tkinter. The project aims to create a functional login system with a visually appealing interface, providing a practical example of GUI development in Python. I have used PyCharm as the integrated development environment and a virtual environment for package management. The project utilizes the Tkinter library, which is the standard Python library for creating GUIs, and incorporates the Pillow library for enhanced image handling and component fitting. The main application logic is contained within the app.py file, which serves as the core of the login system. <br /> <b> Subject Areas: </b> Python Programming, GUI Development, User Authentication, Tkinter Library, Version Control, Virtual Environment Management, User Interface Design, Application Debugging
 
 ### 12. News Reader:
+The NewsReader project is a Python-based application that fetches and displays top news headlines through real-time API requests. This interactive GUI application provides users with an easy-to-use platform for accessing up-to-date news articles. The project utilizes the NewsAPI service to retrieve hourly updated articles, ensuring that users always have access to the latest information. Developed using PyCharm IDE with Python 3.10, the NewsReader application involved working with external APIs, handling real-time data retrieval and creating a user-friendly graphical interface. To enhance functionality, the requests library for API interactions and the Pillow library for GUI component fitting were used. <br /> <b> Subject Areas: </b> Python Programming, API Integration, GUI Development, Real-time Data Handling, Project Documentation, Version Control, Virtual Environment Management, Third-party Library Integration
+
+### 13. Movie Recommendation System:
 
 
-13. Movie Recommendation System
-14. WhatsApper
-15. Clicked Data Analysis Sprint
-16. Employment Analytics
+### 14. WhatsApper:
+
+
+### 15. Clicked Data Analysis Sprint:
+
+
+### 16. Employment Analytics:
+
 
 ## COMING SOON!
 * Similar Character Recognizer
