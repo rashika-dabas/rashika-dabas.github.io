@@ -80,9 +80,11 @@ Virtual Reality (VR) Audio Description project aims to enhance the accessibility
 "AI Ethics" is a comprehensive collection of resources and work focused on the ethical considerations surrounding artificial intelligence and showcases a range of topics that explore the intersection of AI and ethics enhancing the understanding to address the complex challenges in this field. It also highlights the importance of considering the societal impact of AI technologies and the need for responsible innovation along with contributing to the ongoing dialogue about the responsible development and deployment of AI systems in various domains. <br /> <b> Subject Areas: </b> Ethical AI principles and frameworks, Bias and fairness in AI systems, Privacy and data protection, Transparency and explainability in AI, AI governance and regulation, Responsible AI development
 
 ### 7. Amazon Crawling:
+This is a web scraping project focused on extracting product information from Amazon. The Amazon Crawling project utilizes the Scrapy user agent to navigate through Amazon's website and extract detailed product information. It employs various Python libraries such as Scrapy for web extraction and Pandas for data manipulation. It includes the script for scraping product details, handles pagination and stores the collected data in the NoSQL MongoDB database. One of the key features of this project is its ability to gather a wide range of product attributes from multiple pages. The collected data can further be processed and analyzed to generate meaningful insights about product trends, pricing strategies, and customer preferences on Amazon's platform. <br /> <b> Subject Areas: </b> Web Scraping, Data Analysis, Python Programming, E-commerce Analytics, Automation, Databases, NoSQL, Version Control
+
+### 8. Web Authenticator:
 
 
-8. Web Authenticator
 9. Student Placement App
 10. ChatbotRashi
 11. Login GUI
