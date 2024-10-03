@@ -92,9 +92,11 @@ The Student Placement App is an interactive web application designed to streamli
 "ChatbotRashi" is a versatile project focused on developing an intelligent chatbot system. This project demonstrates the implementation of intents and real-time chatting to create a conversational AI capable of effectively understanding and responding to user queries via Google Dialogflow demo link or Telegram. The chatbot is designed to assist with currency conversion via a public API and has the functionality of small talk too. The project incorporates features such as context management and personalization to enhance the user experience. <br /> <b> Subject Areas: </b> Natural Language Processing (NLP), Conversational AI, Google Dialogflow, API Integration, Deployment (Telegram), Chatbot Testing and Quality Assurance
 
 ### 11. Login GUI:
+LoginGUI App demonstrates the implementation of an interactive graphical user interface for user authentication using Python and Tkinter. The project aims to create a functional login system with a visually appealing interface, providing a practical example of GUI development in Python. I have used PyCharm as the integrated development environment and a virtual environment for package management. The project utilizes the Tkinter library, which is the standard Python library for creating GUIs, and incorporates the Pillow library for enhanced image handling and component fitting. The main application logic is contained within the app.py file, which serves as the core of the login system. <br /> <b> Subject Areas: </b> Python Programming, GUI Development, User Authentication, Tkinter Library, Version Control, Virtual Environment Management, User Interface Design, Application Debugging
+
+### 12. News Reader:
 
 
-12. News Reader
 13. Movie Recommendation System
 14. WhatsApper
 15. Clicked Data Analysis Sprint
