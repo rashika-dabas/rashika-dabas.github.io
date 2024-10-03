@@ -89,9 +89,11 @@ The project demonstrates a robust approach to user authentication, incorporating
 The Student Placement App is an interactive web application designed to streamline the placement process for educational institutions and help students know their chances of landing a placement offer based on CGPA, IQ and profile score. This project leverages a robust tech stack, including Python for the predictions (Random Forest Classifier Model), Postman software for testing the URL requests from the local Flask app and JavaScript & XML for the mobile application designed via Android Studio. The app is also deployed on Heroku by Salesforce Cloud for easy access to developers. It offers a user-friendly interface that caters to three main user roles: students, companies and placement coordinators. <br /> <b> Subject Areas: </b> Web Development, Machine Learning, App Development, API Testing, Programming, User Interface Design, Deployment (Salesforce)
 
 ### 10. ChatbotRashi:
+"ChatbotRashi" is a versatile project focused on developing an intelligent chatbot system. This project demonstrates the implementation of intents and real-time chatting to create a conversational AI capable of effectively understanding and responding to user queries via Google Dialogflow demo link or Telegram. The chatbot is designed to assist with currency conversion via a public API and has the functionality of small talk too. The project incorporates features such as context management and personalization to enhance the user experience. <br /> <b> Subject Areas: </b> Natural Language Processing (NLP), Conversational AI, Google Dialogflow, API Integration, Deployment (Telegram), Chatbot Testing and Quality Assurance
+
+### 11. Login GUI:
 
 
-11. Login GUI
 12. News Reader
 13. Movie Recommendation System
 14. WhatsApper
