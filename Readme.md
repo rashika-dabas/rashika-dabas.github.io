@@ -123,7 +123,7 @@ Employment Analytics project focused on analyzing career pathways and employment
 * Behavioral Risk Factor Surveillance System
 * Loan Eligibility Predictor
 * Yelp Reviews Scrapper
-* Great Customers CLassifier
+* Great Customers Classifier
 * Sample Superstore Classifier
 * TherapEase
 * News Group Classifier
