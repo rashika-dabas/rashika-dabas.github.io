@@ -30,7 +30,7 @@ I am progressive-minded and in tune with new developments in AI. I have proven t
 | Human Resources                                              | BrainWeave                                             | Jun 2021 - Aug 2021 | Support HR functions such as recruitment, onboarding, employee engagement, and offboarding.                                 |
 | Graphic Designing                                            | iProledge                                              | Jun 2021 - Jul 2021 | Design graphics for financial products and services (certifications).                                                       |
 | Social Media Marketing                                       | Dewrty Foundation                                      | May 2021 - Jul 2021 | Manage social media presence and execute marketing campaigns via posters for awareness.                                     |
-| Data Research Analysis Team Lead                             | Ace Overseas Education Consultants                     | Apr 2021 – Jul 2021 | Lead a 20-member content team boosting productivity by 20% via project coordination & ongoing support.                      |
+| Data Research Analysis Team Lead                             | Ace Overseas Education Consultants                     | Apr 2021 - Jul 2021 | Lead a 20-member content team boosting productivity by 20% via project coordination & ongoing support.                      |
 | Graphic Designing                                            | CollegeTips.in                                         | May 2021 - Jun 2021 | Create visual designs for promoting website and marketing materials.                                                        |
 
 ## ACADEMICS
