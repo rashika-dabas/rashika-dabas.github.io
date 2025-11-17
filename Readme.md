@@ -58,6 +58,12 @@ Being progressive-minded and in tune with new developments in AI, I have proven 
 
 * [Tableau Dashboarding](https://public.tableau.com/app/profile/rashika.dabas/vizzes)
 * PUBLICATION: [Virtual Reality and its Applications](http://www.sumc.lt/index.php/se/article/view/1546) - This paper intends to focus on the use of virtual reality in education. The paper presents an innovative perspective on VR, offering a comprehensive overview of its basic facts and features. It delves into the specific applications of VR in educational settings, emphasizing its potential impact on teaching and learning.
+* ACHIEVEMENTS:
+1. Awarded Safe Roads Competition Winner, Top 3 Team Smart India Hackathon and First Prize Mathematical Rangoli Event
+2. Mentored at Womxn In Data Science Conference, GenAI Genesis Hackathon at UofT & Analyst Challenge at Ontario Tech Univ.; Student Editor & Organizing Committee Member at Univ. of Delhi; Council Member at Chandigarh Univ.; Mentee at Women in AI Canada Mentorship Cohort; Ten Thousand Coffees Member 2024; Made 2x Dean’s Honour List at George Brown College
+3. Recognized by VP of Division of Student Success for volunteering 80+ hours and Canada Revenue Agency for CVITP 2024
+4. Distinction in Certificate Course in French from Univ. of Delhi
+5. Involvements: Enactus, Digital Health Canada, Council Member, Financial Markets and TEDx
 
 ## PROJECT OVERVIEWS
 ### 1. Heart Failure Predictor:
